@@ -2,12 +2,11 @@
 
 ## 🧑‍💻 Sobre mim
 
-- 💻 Estudante de programação com foco em (Java)
+- 💻 Estudante de Engenharia de software unifil
 - 🏋️‍♂️ Fã de academia e sempre buscando evoluir 💪
 - 🏐 Apaixonado por vôlei nas horas vagas
 - 🛒 Atualmente trabalhando no setor de mercado
 - 🎮 Entusiasta de jogos online! e streamer de jogos online
-- 📺 Faço lives na [Twitch](https://www.twitch.tv/chamanabinga) e posto vídeos no [YouTube](https://www.youtube.com/@ChamaNaBinga)
 - 🎯 Sempre em busca de aprender algo novo e melhorar minhas habilidades
 
 - <div>
@@ -32,13 +31,13 @@
 
 ##
 <div>
-  <a href="https://www.youtube.com/@ChamaNaBinga" target="_blank">
+  <a href="https:youtube.com/seuusuario" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
   <a href="https://instagram.com/seuUsuario" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  <a href="https://www.twitch.tv/chamanabinga" target="_blank">
+  <a href="https://www.twitch.tv/seuusuario" target="_blank">
     <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
   </a>
   <a href="https://discord.com/invite/eyqm55dfrw" target="_blank">
